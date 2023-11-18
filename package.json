@@ -1,5 +1,5 @@
 {
-	"name": "@amethystnetwork-dev/incognito-gfiles",
+	"name": "@MangoIsHere/gfiles",
 	"version": "1.0.0",
 	"description": "Incognito Game Files",
 	"type": "module",
@@ -11,8 +11,8 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/amethystnetwork-dev/Incognito-gfiles"
+		"url": "git+https://github.com/MangoIsHere/gfiles"
 	},
-	"author": "Game creators and Amethyst Network contributers",
+	"author": "Game creators and contributers",
 	"license": "GPL-3.0-or-later"
 }
