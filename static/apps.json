@@ -1,8 +1,8 @@
 [
     {
-        "title": "Google",
-        "img": "./source/img/apps/google.jpg",
-        "location": "https://www.google.com"
+        "title": "Streamflix",
+        "img": "./source/img/apps/stream.png",
+        "location": "https://www.streamflix.one"
     },
     {
         "title": "Youtube",
