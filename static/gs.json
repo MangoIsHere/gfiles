@@ -206,14 +206,14 @@
     "description": "Slope is the ultimate running game that will put your skills to the test. Speed down on a randomized slope. The farther you go, the faster your ball travels. This game might look simple but playing this will give you extreme adrenaline rush. Just remember to avoid obstacles and those red blocks. Always be on track to get a high score and you might have your name on the leaderboard! "
   },
   {
-    "img": "./source/img/gs/sm64.png",
+    "img": "./source/img/gs/sm64.jpg",
     "location": "./source/html/sm64/",
     "title": "Super Mario 64",
     "description": "Super Mario 64 is a platform game developed and published by Nintendo for the Nintendo 64. It was released in Japan and North America in 1996 and PAL regions in 1997. It is the first Super Mario game to feature 3D gameplay, combining traditional Super Mario gameplay, visual style, and characters.",
     "category": "n64"
   },
   {
-    "img": "./source/img/gs/sma4.jpg",
+    "img": "./source/img/gs/sma4.png",
     "location": "./source/html/sma4/",
     "title": "Super Mario Advance 4",
     "description": "Super Mario Advance 4: Super Mario Bros 3 is a platform video game developed and published by Nintendo for the Game Boy Advance handheld game console. It was released in Japan, and later released in Europe, North America, and Australia. It is an enhanced remake of the Nintendo Entertainment System video game Super Mario Bros. 3, and is based on the remake found in Super Mario All-Stars for the Super Nintendo Entertainment System.",
