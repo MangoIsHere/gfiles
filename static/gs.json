@@ -209,13 +209,23 @@
     "img": "./source/img/gs/sm64.png",
     "location": "./source/html/sm64/",
     "title": "Super Mario 64",
+    "description": "Super Mario 64 is a platform game developed and published by Nintendo for the Nintendo 64. It was released in Japan and North America in 1996 and PAL regions in 1997. It is the first Super Mario game to feature 3D gameplay, combining traditional Super Mario gameplay, visual style, and characters.",
     "category": "n64"
   },
   {
     "img": "./source/img/gs/sma4.jpg",
     "location": "./source/html/sma4/",
     "title": "Super Mario Advance 4",
+    "description": "Super Mario Advance 4: Super Mario Bros 3 is a platform video game developed and published by Nintendo for the Game Boy Advance handheld game console. It was released in Japan, and later released in Europe, North America, and Australia. It is an enhanced remake of the Nintendo Entertainment System video game Super Mario Bros. 3, and is based on the remake found in Super Mario All-Stars for the Super Nintendo Entertainment System.",
     "category": "n64"
+  },
+  {
+    "img": "./source/img/gs/tanuki.jpg",
+    "location": "./source/html/tanuki/",
+    "title": "Tanuki Sunset",
+    "description": "Master the longboard as you drift through stunning mountain ranges, swerve through bustling city streets, and along the sandy beaches of Sunset Island. Train to perform epic tricks, from jumping off-ramp to longboarding backwards. Grab Your Longboard and Race to the Top in Tanuki Sunset!",
+    "category": "multi"
+    "featured": true
   },
   {
     "img": "./source/img/gs/vex3.jpg",
