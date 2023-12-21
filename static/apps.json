@@ -1,8 +1,8 @@
 [
     {
-        "title": "Streamflix",
-        "img": "./source/img/apps/stream.png",
-        "location": "https://www.streamflix.one"
+        "title": "ChatGPT",
+        "img": "./source/img/apps/chat.png",
+        "location": "https://chat.openai.com"
     },
     {
         "title": "Youtube",
